@@ -2,7 +2,7 @@
     "name": "antlr",
     "identifier": "com.antlr.xyz",
     "sourceURL": "https://github.com/antlrrepo/antlr/source.json",
-    "sourceIconURL": "https://raw.githubusercontent.com/antlrrepo/antlr/main/logo.png",
+    "IconURL": "https://raw.githubusercontent.com/antlrrepo/antlr/main/logo.png",
     "userinfo": {},
     "apps": [
       {
